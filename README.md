@@ -56,5 +56,5 @@ Time series models such as ARIMA, SARIMA, and Facebook Prophet were considered. 
 Data cleaning and preprocessing were essential for improving the accuracy of time series models. SARIMA was the best performing model, providing valuable insights for managing Walmart's inventory effectively.
 
 ### References
-Facebook. (2017). Prophet: Forecasting at scale. Available at: Prophet: Forecasting at scale
-Dataset: Kaggle
+* Facebook. (2017). Prophet: Forecasting at scale. Available at: Prophet: Forecasting at scale
+* Dataset: Kaggle
